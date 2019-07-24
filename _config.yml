@@ -6,17 +6,11 @@ title: Thesis speech examples
 
 # Where the page will be deployed.
 # If it's https://foo.com/bar, just write "https://foo.com"
-baseurl: ""
-url: "https://faaip.github.io/Thesis-audio"
+baseurl: /thesis-audio
+url: "https://faaip.github.io"
 
 # If you're deployging to a subdirectory (https://foo.com/bar/)
 # Then write "/bar/". Otherwise, remove this line.
-
-# Twitter IDs
-twitter:
-  username: "chibicode"
-author:
-  twitter: "chibicode"
 
 # Set default og:image
 # From Unsplash: https://unsplash.com/photos/1_CMoFsPfso
