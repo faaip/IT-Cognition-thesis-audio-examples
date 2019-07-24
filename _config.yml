@@ -6,8 +6,8 @@ title: Thesis speech examples
 
 # Where the page will be deployed.
 # If it's https://foo.com/bar, just write "https://foo.com"
-baseurl: "/Thesis-audio"
-url: "https://faaip.github.io"
+baseurl: ""
+url: "https://faaip.github.io/Thesis-audio"
 
 # If you're deployging to a subdirectory (https://foo.com/bar/)
 # Then write "/bar/". Otherwise, remove this line.
