@@ -1,4 +1,4 @@
-This pages accompanies the presented master's thesis project ***Multivocal - Multivocal***.
+This pages accompanies the presented master's thesis project ***Multivocal - Creating synthetic voices with non-singular identites***.
 Please contact me on [frederik@tollund.cc](mailto:frederik@tollund.cc?subject=The links don't work!!) if some of the links don't work.
 
 ## Audio presented in interviews
